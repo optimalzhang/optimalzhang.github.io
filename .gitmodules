@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/optimalzhang/optimalzhang.github.io.git
 	branch = master
+[submodule "config/_default/public"]
+	path = config/_default/public
+	url = https://github.com/optimalzhang/optimalzhang.github.io.git
+	branch = master
